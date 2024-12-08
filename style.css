@@ -5,7 +5,7 @@
 	 background-color: #000000;
 	 font-family:  'Courier New', Courier, monospace;
 }
-h1{
+/* h1{
     font-size: 40px;
     margin-top: -50px;
     margin-bottom: 40px;
@@ -39,9 +39,7 @@ h1{
 }
  #card .heart #half2 {
 	 -ms-transform: rotate(-90deg);
-	/* IE 9 */
 	 -webkit-transform: rotate(-90deg);
-	/* Chrome, Safari, Opera */
 	 transform: rotate(-90deg);
 	 margin-top: -330px;
 	 margin-left: -200px;
@@ -381,4 +379,4 @@ h1{
 		 transform: rotateX(180deg);
 	}
 }
- 
+  */
